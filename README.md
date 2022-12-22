@@ -1,4 +1,3 @@
-# goit-markup-hw-01
 # Accessibility in HTML
 
 ![badmath](https://img.shields.io/badge/accessibility-HTML-blue)
