@@ -1,8 +1,4 @@
 # goit-markup-hw-01
-This is new website that I'm building ... in progress
-You may see at https://volodya1989.github.io/goit-markup-hw-01/
-
-
 # Accessibility in HTML
 
 ![badmath](https://img.shields.io/badge/accessibility-HTML-blue)
@@ -25,7 +21,7 @@ You may see at https://volodya1989.github.io/goit-markup-hw-01/
 
 This simple HTML file uses best practices for accessility and programming.
 
-[Deployed Horiseon Website Link ](https://volodya1989.github.io/goit-markup-hw-01/)
+[Deployed HTML Accessibility  Link ](https://volodya1989.github.io/goit-markup-hw-01/)
 
 
 
