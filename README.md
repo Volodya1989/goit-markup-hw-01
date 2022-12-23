@@ -1,6 +1,6 @@
-# Accessibility in HTML
+# Basic HTML
 
-![badmath](https://img.shields.io/badge/accessibility-HTML-blue)
+![badmath](https://img.shields.io/badge/basic-HTML-blue)
 
 ![Contributor Covenant](https://img.shields.io/badge/license-MIT-brightgreen)
 
